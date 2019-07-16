@@ -1,0 +1,1 @@
+# Snippits from the book "Thinking functionally with haskell"

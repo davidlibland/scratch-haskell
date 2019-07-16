@@ -1,1 +1,2 @@
-# parser
+# Parser
+A basic monadic parser.
