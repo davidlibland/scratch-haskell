@@ -1,0 +1,9 @@
+name: woot
+
+dependencies:
+- base > 4.7 && < 5
+- random # added here
+
+executable:
+  main: Main.hs
+  source-dirs: src
